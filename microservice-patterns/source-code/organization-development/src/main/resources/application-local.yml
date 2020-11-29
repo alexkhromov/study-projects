@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: organization-development
+
+docker:
+  host: 192.168.99.100
+
+service:
+  ip-address: 192.168.99.114
